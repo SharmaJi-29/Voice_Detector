@@ -38,7 +38,7 @@ It can be classified the voice of the man which is as like this image as given b
 
 ( https://img.freepik.com/premium-photo/cheerful-man-engages-lively-conversation-his-mobile-phone-while-gesturing-with-his-hand_116547-       114750.jpg?size=626&ext=jpg )
 
-or voicec of a women or a female which is also recognised by my voice detector. A female is tell something in a wave format of voice         like this :
+or voicec of a women or a female which is also recognised by my voice detector. A female is tell something in a wave format of voice         like this:
 
 ( https://media.istockphoto.com/id/1226400727/photo/african-woman-takes-part-in-videocall-chatting-with-foreign-friend.jpg?                  s=612x612&w=0&k=20&c=D58Lb1jQQe0e-DXmwkFjQwLHR0xVVJdRv8TTY6ubL9Y= )
 
