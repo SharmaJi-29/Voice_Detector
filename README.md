@@ -27,9 +27,7 @@ This is how you make a list, if you need one:
 * problem 3 - Machine learning and sophisticated algorithms help voice recognition                  technology quickly turn spoken words into written text.
 
 
-## How is it used?
-
-  # Process of using the solution
+  ## Process of using the solution
   1. Insert csv format of voice instead of wave format as an input which will be recognoize.
   2. It convert csv dataset of voice into essential csv dataset wherein main data columns are present.
   3. After that It Will be recognize the voice which are Male or Female using XGBClassifier() because it have higher accuracy.
