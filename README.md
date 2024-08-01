@@ -27,20 +27,20 @@ This is how you make a list, if you need one:
 * problem 3 - Machine learning and sophisticated algorithms help voice recognition                  technology quickly turn spoken words into written text.
 
 
-  ## Process of using the solution
-  1. Insert csv format of voice instead of wave format as an input which will be recognoize.
-  2. It convert csv dataset of voice into essential csv dataset wherein main data columns are present.
-  3. After that It Will be recognize the voice which are Male or Female using XGBClassifier() because it have higher accuracy.
-  4. Then it display the result of Voice are male voice or female voice.
+## Process of using the solution
+1. Insert csv format of voice instead of wave format as an input which will be recognoize.
+2. It convert csv dataset of voice into essential csv dataset wherein main data columns are present.
+3. After that It Will be recognize the voice which are Male or Female using XGBClassifier() because it have higher accuracy.
+4. Then it display the result of Voice are male voice or female voice.
 
 
-  It can be classified the voice of the man which is as like this image as given below :
+It can be classified the voice of the man which is as like this image as given below :
 
-  ( https://img.freepik.com/premium-photo/cheerful-man-engages-lively-conversation-his-mobile-phone-while-gesturing-with-his-hand_116547-       114750.jpg?size=626&ext=jpg )
+( https://img.freepik.com/premium-photo/cheerful-man-engages-lively-conversation-his-mobile-phone-while-gesturing-with-his-hand_116547-       114750.jpg?size=626&ext=jpg )
 
-  or voicec of a women or a female which is also recognised by my voice detector. A female is tell something in a wave format of voice         like this :
+or voicec of a women or a female which is also recognised by my voice detector. A female is tell something in a wave format of voice         like this :
 
-  ( https://media.istockphoto.com/id/1226400727/photo/african-woman-takes-part-in-videocall-chatting-with-foreign-friend.jpg?                  s=612x612&w=0&k=20&c=D58Lb1jQQe0e-DXmwkFjQwLHR0xVVJdRv8TTY6ubL9Y= )
+( https://media.istockphoto.com/id/1226400727/photo/african-woman-takes-part-in-videocall-chatting-with-foreign-friend.jpg?                  s=612x612&w=0&k=20&c=D58Lb1jQQe0e-DXmwkFjQwLHR0xVVJdRv8TTY6ubL9Y= )
 
 
 ## Data sources and AI methods
